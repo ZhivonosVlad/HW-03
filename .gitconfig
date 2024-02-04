@@ -1,0 +1,7 @@
+[user]
+	name = Vlad
+	email = vzhivonos@yandex.ru
+[core]
+	editor = \"d:\\Users SD\\us\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[gui]
+	recentrepo = D:/DevOpsGit/my_project/repo
